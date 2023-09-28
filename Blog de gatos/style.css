@@ -230,12 +230,6 @@ footer {
         grid-template-columns: 3fr 1fr;
     }
 
-    main{
-        
-    }
-
-    .sidebar {
-    }
 
     .container{
        width: 100%;
@@ -260,7 +254,7 @@ footer {
         grid-area: content;
     }
 
-    .sidebar{
+    .artigos{
         grid-area: sidebar;
     }
 
